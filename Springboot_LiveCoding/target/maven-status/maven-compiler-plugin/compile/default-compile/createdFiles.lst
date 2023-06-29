@@ -1,0 +1,5 @@
+com\example\demo\Service\dao\MealDao.class
+com\example\demo\Service\service\MealService.class
+com\example\demo\Service\controller\MealController.class
+com\example\demo\Service\ProgettoLiveCodingApplication.class
+com\example\demo\Service\Meal.class
